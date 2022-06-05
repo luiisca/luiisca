@@ -8,4 +8,4 @@
 </p> -->
 
 <img align="left" width="48%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-left.svg">
-<img align="left" width="48%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-right.svg">
+<img align="left" width="47%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-right.svg">
