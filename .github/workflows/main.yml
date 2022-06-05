@@ -53,6 +53,7 @@ jobs:
           config_timezone: America/Lima
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: .user.website
           plugin_stars: yes
           plugin_stars_limit: 4
