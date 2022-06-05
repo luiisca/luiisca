@@ -7,5 +7,5 @@
   </a>
 </p> -->
 
-<img align="left" width="55%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-left.svg">
-<img align="left" width="55%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-right.svg">
+<img align="left" width="50%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-left.svg">
+<img align="left" width="50%" src="https://raw.githubusercontent.com/LuisCadillo/LuisCadillo/main/profile-right.svg">
