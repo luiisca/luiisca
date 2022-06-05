@@ -15,14 +15,13 @@ jobs:
           user: LuisCadillo
           template: classic
           base: header
-          config_order: base.header, isocalendar, lines, notable, languages, followup
+          config_order: base.header, isocalendar, lines, notable, languages, followup, habits
           config_timezone: America/Lima
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_repositories: yes
           plugin_notable_types: commit
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -37,6 +36,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_followup: yes
           plugin_followup_sections: repositories
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
           filename: "profile-left.svg"
       - uses: lowlighter/metrics@latest
         with:
