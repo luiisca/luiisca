@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1317" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1171" class="">
     <defs>
         <style/>
     </defs>
@@ -314,15 +314,15 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">adb6aef9</span>
-                            <span class="code">src/img/icons/hospital.svg</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--3</span></span>
+                            <span class="code">src/img/icons/hospital-room.svg</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 48 48" viewBox="0 0 48 48"&gt;&lt;circle cx="27.4" cy="27.4" r="20" fill="#c7d8f2"/&gt;&lt;path fill="#384a66" d="M43.1,11.7h-10v-11H10.7v11h-10v26.4h5.7v5.1h31.2v-5.1h5.7V11.7z M12.2,2.1h19.4v9.5v24.9h-4.1v-7.3H16.3v7.3<br /></span><span class="token prefix deleted">-</span><span class="token line">	h-4.1V11.7V2.1z M26,36.6h-8.2v-5.8H26V36.6z M2.1,36.6V13.2h8.5v23.4H6.3H2.1z M36,41.6H7.8v-3.6h2.9h1.5h4.1h11.2h4.1h1.5H36<br /></span><span class="token prefix deleted">-</span><span class="token line">	V41.6z M41.6,36.6h-4.2h-4.4V13.2h8.5V36.6z"/&gt;&lt;polygon fill="#384a66" points="21.1 13.3 22.6 13.3 22.6 10.5 25.4 10.5 25.4 9 22.6 9 22.6 6.2 21.1 6.2 21.1 9 18.3 9 18.3 10.5 21.1 10.5"/&gt;&lt;rect width="1.5" height="2.8" x="5.6" y="16.9" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="5.6" y="23.4" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="5.6" y="30" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="36.6" y="16.9" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="36.6" y="23.4" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="36.6" y="30" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="16.3" y="16.9" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="16.3" y="23.4" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="21.1" y="16.9" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="21.1" y="23.4" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="26" y="16.9" fill="#384a66"/&gt;&lt;rect width="1.5" height="2.8" x="26" y="23.4" fill="#384a66"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,2 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 48 48" viewBox="0 0 48 48"&gt;&lt;circle cx="27.5" cy="27" r="20" fill="#c7d8f2"/&gt;&lt;path fill="#384a66" d="M23,1L0.5,19.7h6.7v24.1H39V19.7h6.6L23,1z M37.5,18.2v24.1H8.6V18.2h-4L23,3l18.4,15.2H37.5z"/&gt;&lt;path fill="#384a66" d="M33.4,32.7h-2.6v-2c0-1.5-1.2-2.7-2.7-2.7h-7.5v1.7H18v1.5h2.6v1.5h-7.9v-11h-1.5v18.5h1.5v-6h7.9v4.3h10.2<br /></span><span class="token prefix deleted">-</span><span class="token line">		v-4.3h2.6v6h1.5v-9.8h-1.5V32.7z M29.3,37h-7.2v-7.5h6c0.7,0,1.2,0.6,1.2,1.2V37z"/&gt;&lt;rect width="1.7" height="1.5" x="14.6" y="29.6" fill="#384a66"/&gt;&lt;polygon fill="#384a66" points="22.3 20.5 23.8 20.5 23.8 16.8 27.5 16.8 27.5 15.3 23.8 15.3 23.8 11.6 22.3 11.6 22.3 15.3 18.6 15.3 18.6 16.8 22.3 16.8"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
