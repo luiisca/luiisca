@@ -15,7 +15,7 @@ jobs:
           user: LuisCadillo
           template: classic
           base: header
-          config_order: base.header, isocalendar, lines, notable, languages, followup, habits
+          config_order: base.header, isocalendar, lines, notable, languages, followup, habits, wakatime
           config_timezone: America/Lima
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -42,6 +42,9 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           filename: "profile-left.svg"
       - uses: lowlighter/metrics@latest
         with:
