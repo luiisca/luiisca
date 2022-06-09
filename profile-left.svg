@@ -1440,18 +1440,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M33.81,90.992A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.42611968546676476"/>
+                                        <path d="M33.786,90.832A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.4265415358264345"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M57.382,24.657A75,75,0,0,0,33.849,91.251L108,80Z" class="ct-slice-pie" ct:value="0.09119606904875836"/>
+                                        <path d="M57.433,24.61A75,75,0,0,0,33.825,91.091L108,80Z" class="ct-slice-pie" ct:value="0.09112903225806451"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,57.189,24.834L108,80Z" class="ct-slice-pie" ct:value="0.06914874622367284"/>
+                                        <path d="M108,5A75,75,0,0,0,57.24,24.787L108,80Z" class="ct-slice-pie" ct:value="0.06909791607193834"/>
                                     </g>
                                     <g>
-                                        <text dx="136.3931572631384" dy="104.49650221216677" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="72.66471411054859" dy="67.44342518396296" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="94.42479718612297" dy="45.04340021452165" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="136.36678131251233" dy="104.52704054646831" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="72.6840943918166" dy="67.38902021752949" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="94.44102018236516" dy="45.03710443477298" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1474,7 +1474,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~8 coding hours recorded
+                            ~10 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1516,8 +1516,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 71.808%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">devii</span>
+                                <div class="bar" style="width: 8.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
