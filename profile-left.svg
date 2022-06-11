@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1413" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1424" class="">
     <defs>
         <style/>
     </defs>
@@ -1413,18 +1413,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M37.448,105.445A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.4140138504928653"/>
+                                        <path d="M37.122,104.522A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.41518867134039045"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M46.429,37.175A75,75,0,0,0,37.538,105.691L108,80Z" class="ct-slice-pie" ct:value="0.09044706933623747"/>
+                                        <path d="M46.413,37.197A75,75,0,0,0,37.208,104.769L108,80Z" class="ct-slice-pie" ct:value="0.08916152277742088"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,46.28,37.39L108,80Z" class="ct-slice-pie" ct:value="0.09131970623551423"/>
+                                        <path d="M108,5A75,75,0,0,0,46.264,37.412L108,80Z" class="ct-slice-pie" ct:value="0.09134011116386895"/>
                                     </g>
                                     <g>
-                                        <text dx="138.6867172014614" dy="101.55401093526523" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="70.82029237639378" dy="75.10925966512664" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="90.63223842327645" dy="46.76431348965265" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="138.54538446407702" dy="101.75383846454972" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="70.85207867724918" dy="74.87340840336246" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="90.62623550828468" dy="46.76745108502191" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1447,7 +1447,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~14 coding hours recorded
+                            ~17 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1489,18 +1489,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 52.800000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">66%</span>
+                                <div class="bar" style="width: 49.376%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Learning Typescript</span>
-                                <div class="bar" style="width: 21.096%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 25.464%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">devii</span>
-                                <div class="bar" style="width: 6.112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 5.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">my-app</span>
+                                <div class="bar" style="width: 0.11200000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
