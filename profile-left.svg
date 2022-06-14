@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1413" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1424" class="">
     <defs>
         <style/>
     </defs>
@@ -1430,18 +1430,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M38.81,108.943A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.41975488475875816"/>
+                                        <path d="M38.796,108.911A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.41983939411994464"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M50.707,31.601A75,75,0,0,0,38.911,109.184L108,80Z" class="ct-slice-pie" ct:value="0.10674629711781025"/>
+                                        <path d="M50.717,31.589A75,75,0,0,0,38.898,109.152L108,80Z" class="ct-slice-pie" ct:value="0.1067307501340589"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,50.538,31.801L108,80Z" class="ct-slice-pie" ct:value="0.08454555687243016"/>
+                                        <path d="M108,5A75,75,0,0,0,50.548,31.789L108,80Z" class="ct-slice-pie" ct:value="0.08453324329870972"/>
                                     </g>
                                     <g>
-                                        <text dx="139.21645460955682" dy="100.77938790266639" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="70.9359243107893" dy="74.29874633922849" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="92.20810986984397" dy="45.98726406010419" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="139.2115831426503" dy="100.78670434988257" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="70.93785340961551" dy="74.28621928029685" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="92.21163355321485" dy="45.98562825889579" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1464,7 +1464,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~22 coding hours recorded
+                            ~21 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1484,7 +1484,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~4 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1506,18 +1506,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 50.472%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 48.904%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">61%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Learning Typescript</span>
-                                <div class="bar" style="width: 25.48%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 26.327999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">devii</span>
-                                <div class="bar" style="width: 3.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">my-app</span>
