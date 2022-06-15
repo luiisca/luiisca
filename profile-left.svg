@@ -1435,13 +1435,13 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M101.762,154.74A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.4818526833440239"/>
+                                        <path d="M101.762,154.74A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.48168532421384486"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M70.608,14.986A75,75,0,0,0,102.023,154.761L108,80Z" class="ct-slice-pie" ct:value="0.37898225358135557"/>
+                                        <path d="M70.608,14.986A75,75,0,0,0,102.023,154.761L108,80Z" class="ct-slice-pie" ct:value="0.37885062384781854"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,70.381,15.117L108,80Z" class="ct-slice-pie" ct:value="0.07798802651272183"/>
+                                        <path d="M108,5A75,75,0,0,0,70.381,15.117L108,80Z" class="ct-slice-pie" ct:value="0.07796093937855673"/>
                                     </g>
                                     <g>
                                         <text dx="145.46750657148627" dy="81.56075344485721" text-anchor="middle" class="ct-label">TypeScript</text>
