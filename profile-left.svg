@@ -1429,14 +1429,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M79.357,10.685A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8134495993773989"/>
+                                        <path d="M78.479,11.054A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8082293901596421"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,79.115,10.785L108,80Z" class="ct-slice-pie" ct:value="0.05410616056741603"/>
+                                        <path d="M108,5A75,75,0,0,0,78.239,11.158L108,80Z" class="ct-slice-pie" ct:value="0.05562020437106804"/>
                                     </g>
                                     <g>
-                                        <text dx="115.30042697268027" dy="116.78251984321577" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="100.69957302731972" dy="43.21748015678423" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="115.53372857477635" dy="116.73544519618073" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="100.46627142522364" dy="43.264554803819266" text-anchor="middle" class="ct-label">JavaScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
