@@ -1434,14 +1434,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M77.936,11.289A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8050029581422866"/>
+                                        <path d="M77.959,11.279A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8051398588478735"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,77.696,11.395L108,80Z" class="ct-slice-pie" ct:value="0.05655598284277474"/>
+                                        <path d="M108,5A75,75,0,0,0,77.719,11.385L108,80Z" class="ct-slice-pie" ct:value="0.056516276835531905"/>
                                     </g>
                                     <g>
-                                        <text dx="115.67877533467872" dy="116.70540027515747" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="100.32122466532131" dy="43.29459972484253" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="115.67260761386275" dy="116.70669002244271" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="100.32739238613726" dy="43.293309977557286" text-anchor="middle" class="ct-label">JavaScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
