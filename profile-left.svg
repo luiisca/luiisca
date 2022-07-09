@@ -1411,14 +1411,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M61.266,21.341A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.6585578060833855"/>
+                                        <path d="M61.595,21.08A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.6592071833779974"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,61.061,21.504L108,80Z" class="ct-slice-pie" ct:value="0.07896568525092225"/>
+                                        <path d="M108,5A75,75,0,0,0,61.39,21.242L108,80Z" class="ct-slice-pie" ct:value="0.07830717293704104"/>
                                     </g>
                                     <g>
-                                        <text dx="120.37721888934851" dy="115.39850918563033" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="95.62278111065149" dy="44.60149081436968" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="120.27802274752328" dy="115.43303765430366" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="95.72197725247672" dy="44.566962345696346" text-anchor="middle" class="ct-label">JavaScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1483,27 +1483,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 69.31200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">87%</span>
+                                <div class="bar" style="width: 72%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 5.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 4.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">plate-payload-editor</span>
-                                <div class="bar" style="width: 1.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">blugenix-blog</span>
-                                <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1440000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">rte</span>
-                                <div class="bar" style="width: 0.8560000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">next-plate</span>
+                                <div class="bar" style="width: 0.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
