@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 56 repositories
+                            Contributed to 53 repositories
                         </div>
                     </section>
                 </div>
@@ -1114,28 +1114,28 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 169mb of code in 53674 edited files across 149 commits</small>
+                <small>estimation from 169mb of code in 53635 edited files across 140 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.65036625173755" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="177.65036625173755" y="0" width="163.28502038202635" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="340.93538663376387" y="0" width="119.06461336623612" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.1490258462346" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="168.1490258462346" y="0" width="166.82883429546052" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="334.97786014169515" y="0" width="125.02213985830491" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                CSS
                             </div>
                             <small>
-                                <div>98.9 kB</div>
-                                <div>38.62%</div>
+                                <div>89.1 kB</div>
+                                <div>36.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1147,7 +1147,7 @@
                             </div>
                             <small>
                                 <div>66.2 kB</div>
-                                <div>25.88%</div>
+                                <div>27.18%</div>
                             </small>
                         </div>
                     </section>
@@ -1155,13 +1155,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                JavaScript
                             </div>
                             <small>
-                                <div>90.9 kB</div>
-                                <div>35.5%</div>
+                                <div>88.4 kB</div>
+                                <div>36.27%</div>
                             </small>
                         </div>
                     </section>
@@ -1417,18 +1417,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M179.818,58.386A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.01860551290335423"/>
+                                        <path d="M170.034,37.848A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.013432199411052087"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M33.371,72.551A75,75,0,1,0,179.742,58.135L108,80Z" class="ct-slice-pie" ct:value="0.051422017927194884"/>
+                                        <path d="M33.004,79.253A75,75,0,1,0,169.886,37.632L108,80Z" class="ct-slice-pie" ct:value="0.05169534183146484"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,33.345,72.812L108,80Z" class="ct-slice-pie" ct:value="0.021412187675130076"/>
+                                        <path d="M108,5A75,75,0,0,0,33.002,79.515L108,80Z" class="ct-slice-pie" ct:value="0.021526000064651888"/>
                                     </g>
                                     <g>
-                                        <text dx="130.37163931861136" dy="49.90415719409137" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="111.61048123669605" dy="117.32578767071722" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="82.83467907184954" dy="52.19790255064932" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="125.54845000663349" dy="46.859361768899426" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="118.84667929899852" dy="115.89706879655603" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="81.61589888485535" dy="53.35175036994319" text-anchor="middle" class="ct-label">TSX</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
