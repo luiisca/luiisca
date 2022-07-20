@@ -1434,18 +1434,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M174.826,114.049A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.038575508985504665"/>
+                                        <path d="M175.22,113.264A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.03826123908111216"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M33.287,73.441A75,75,0,0,0,174.944,113.815L108,80Z" class="ct-slice-pie" ct:value="0.052099439882005376"/>
+                                        <path d="M33.261,73.747A75,75,0,0,0,175.335,113.029L108,80Z" class="ct-slice-pie" ct:value="0.052116470118018336"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,33.265,73.701L108,80Z" class="ct-slice-pie" ct:value="0.028019267702535905"/>
+                                        <path d="M108,5A75,75,0,0,0,33.24,74.007L108,80Z" class="ct-slice-pie" ct:value="0.028028426625222314"/>
                                     </g>
                                     <g>
-                                        <text dx="139.97394839066888" dy="60.406209547133486" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="97.65821409737897" dy="116.04576902140317" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="82.66957939978796" dy="52.34824070305194" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="139.8586951530559" dy="60.21936444032566" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="97.94335119670332" dy="116.12635900346382" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="82.61301990529165" dy="52.40015866583863" text-anchor="middle" class="ct-label">TSX</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
