@@ -1439,18 +1439,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M173.179,117.104A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.03914367450352986"/>
+                                        <path d="M172.987,117.44A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.03909069541182316"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M50.862,31.418A75,75,0,1,0,173.308,116.877L108,80Z" class="ct-slice-pie" ct:value="0.0623940596061545"/>
+                                        <path d="M40.019,48.322A75,75,0,0,0,173.117,117.213L108,80Z" class="ct-slice-pie" ct:value="0.05704501298709027"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,50.693,31.617L108,80Z" class="ct-slice-pie" ct:value="0.016235272426652077"/>
+                                        <path d="M108,5A75,75,0,0,0,39.908,48.559L108,80Z" class="ct-slice-pie" ct:value="0.02118844520876041"/>
                                     </g>
                                     <g>
-                                        <text dx="140.41878764542452" dy="61.151334063099554" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="86.48425083007298" dy="110.71355625219562" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="92.26258428027646" dy="45.96202493589552" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="140.46723532447226" dy="61.23490926253374" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="90.70426847628693" dy="113.27322754196891" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="87.84710034142708" dy="48.37547414819487" text-anchor="middle" class="ct-label">TSX</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1473,7 +1473,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~40 coding hours recorded
+                            ~47 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1493,7 +1493,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~6 hours of coding per day
+                            ~7 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1515,27 +1515,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 51.56%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">64%</span>
+                                <div class="bar" style="width: 59.008%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cms-sanity-app</span>
-                                <div class="bar" style="width: 14.791999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
+                                <div class="bar" style="width: 12.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">sanity-nextjs-deploy-test</span>
-                                <div class="bar" style="width: 3.7439999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 3.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 2.5679999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">next.js</span>
-                                <div class="bar" style="width: 1.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">web</span>
+                                <div class="bar" style="width: 1.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
