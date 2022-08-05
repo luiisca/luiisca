@@ -1406,26 +1406,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M158.498,24.548A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.1164063132335087"/>
+                                        <path d="M158.503,24.553A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11642061642061642"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M177.606,107.929A75,75,0,0,0,158.304,24.372L108,80Z" class="ct-slice-pie" ct:value="0.19126399568325914"/>
+                                        <path d="M177.604,107.934A75,75,0,0,0,158.309,24.377L108,80Z" class="ct-slice-pie" ct:value="0.19126089959423292"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M116.173,154.553A75,75,0,0,0,177.703,107.686L108,80Z" class="ct-slice-pie" ct:value="0.1701983002832861"/>
+                                        <path d="M116.169,154.554A75,75,0,0,0,177.701,107.691L108,80Z" class="ct-slice-pie" ct:value="0.1701955451955452"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M96.071,154.045A75,75,0,0,0,116.433,154.524L108,80Z" class="ct-slice-pie" ct:value="0.042379603399433426"/>
+                                        <path d="M96.067,154.045A75,75,0,0,0,116.43,154.525L108,80Z" class="ct-slice-pie" ct:value="0.04237891737891738"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,96.329,154.086L108,80Z" class="ct-slice-pie" ct:value="0.46990422231215434"/>
+                                        <path d="M108,5A75,75,0,0,0,96.326,154.086L108,80Z" class="ct-slice-pie" ct:value="0.46989661572994906"/>
                                     </g>
                                     <g>
-                                        <text dx="121.53744124464731" dy="45.02875917918093" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="144.55251730948936" dy="71.62363573264146" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="130.67076215697458" dy="109.87116574929559" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="107.05248693299156" dy="117.48802767535054" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.6195367136846" dy="77.00818374554417" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="121.53902620495987" dy="45.02937276196765" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="144.5531933586056" dy="71.62658640168827" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="130.66891088118598" dy="109.87257068718472" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="107.05057702319668" dy="117.48797935353568" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.6196096487352" dy="77.00727261731541" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
