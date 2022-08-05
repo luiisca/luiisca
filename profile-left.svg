@@ -1183,14 +1183,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="62.17391304347826" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="62.17391304347826" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="62.17391304347826" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="62.17391304347826" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="62.17391304347826" y="0" width="157.82608695652172" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="59.78260869565217" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="59.78260869565217" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="59.78260869565217" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="59.78260869565217" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="59.78260869565217" y="0" width="160.21739130434784" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -1198,14 +1198,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">26 <small>open</small></span>
+                                <span class="no-wrap">25 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">66 <small>closed</small></span>
+                                <span class="no-wrap">67 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1406,26 +1406,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M157.813,23.931A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11448200025041236"/>
+                                        <path d="M157.799,23.919A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11444461979679686"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M180.518,99.137A75,75,0,0,0,157.617,23.758L108,80Z" class="ct-slice-pie" ct:value="0.1737480742744846"/>
+                                        <path d="M179.904,101.325A75,75,0,0,0,157.603,23.746L108,80Z" class="ct-slice-pie" ct:value="0.17856190512470274"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M118.289,154.291A75,75,0,0,0,180.584,98.883L108,80Z" class="ct-slice-pie" ct:value="0.18521260554064573"/>
+                                        <path d="M118.209,154.302A75,75,0,0,0,179.978,101.074L108,80Z" class="ct-slice-pie" ct:value="0.18060808567836872"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M98.006,154.331A75,75,0,0,0,118.549,154.254L108,80Z" class="ct-slice-pie" ct:value="0.04275518925186585"/>
+                                        <path d="M97.932,154.321A75,75,0,0,0,118.468,154.266L108,80Z" class="ct-slice-pie" ct:value="0.042741228905565504"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,98.265,154.366L108,80Z" class="ct-slice-pie" ct:value="0.4740687109751384"/>
+                                        <path d="M108,5A75,75,0,0,0,98.192,154.356L108,80Z" class="ct-slice-pie" ct:value="0.4739139189255375"/>
                                     </g>
                                     <g>
-                                        <text dx="121.32220456418321" dy="44.94620041208007" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="143.89960719337023" dy="69.16172507445398" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="132.8734009114012" dy="108.06356939344506" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="108.07447740030427" dy="117.499926041485" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.58370294090062" dy="77.49586054996298" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="121.31800664781744" dy="44.94460528066057" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="144.05844982120246" dy="69.70251504046622" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="132.43001746291907" dy="108.45038219007733" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="108.03560789955615" dy="117.4999830943627" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.58494934072556" dy="77.47730616920582" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
