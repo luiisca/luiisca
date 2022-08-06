@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 26 days
+                            Current streak 27 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1072,6 +1072,11 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9523809523809526 0,1.9523809523809523 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9523809523809523 1.7,2.9523809523809526 z"/>
                             </g>
+                            <g transform="translate(-8.5, 10.80952380952381)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1904761904761907 0,1.1904761904761905 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1904761904761905 1.7,2.1904761904761907 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1406,26 +1411,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M158.503,24.553A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11642061642061642"/>
+                                        <path d="M158.564,24.608A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11659236443219584"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M177.604,107.934A75,75,0,0,0,158.309,24.377L108,80Z" class="ct-slice-pie" ct:value="0.19126089959423292"/>
+                                        <path d="M177.783,107.484A75,75,0,0,0,158.371,24.432L108,80Z" class="ct-slice-pie" ct:value="0.19006781767582612"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M116.169,154.554A75,75,0,0,0,177.701,107.691L108,80Z" class="ct-slice-pie" ct:value="0.1701955451955452"/>
+                                        <path d="M116.53,154.513A75,75,0,0,0,177.878,107.24L108,80Z" class="ct-slice-pie" ct:value="0.17044662397665558"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M96.067,154.045A75,75,0,0,0,116.43,154.525L108,80Z" class="ct-slice-pie" ct:value="0.04237891737891738"/>
+                                        <path d="M96.396,154.097A75,75,0,0,0,116.79,154.483L108,80Z" class="ct-slice-pie" ct:value="0.042441436329739804"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,0,0,96.326,154.086L108,80Z" class="ct-slice-pie" ct:value="0.46989661572994906"/>
+                                        <path d="M108,5A75,75,0,0,0,96.655,154.137L108,80Z" class="ct-slice-pie" ct:value="0.47058982464672666"/>
                                     </g>
                                     <g>
-                                        <text dx="121.53902620495987" dy="45.02937276196765" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="144.5531933586056" dy="71.62658640168827" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="130.66891088118598" dy="109.87257068718472" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="107.05057702319668" dy="117.48797935353568" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.6196096487352" dy="77.00727261731541" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="121.55827044796496" dy="45.03682934200847" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="144.53065614761246" dy="71.52880401449099" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="130.83726673430115" dy="109.74406240086216" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="107.22464441760145" dy="117.49198345941227" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.61305399691096" dy="77.09031469706703" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
