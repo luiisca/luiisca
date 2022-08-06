@@ -1412,26 +1412,26 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M119.97,5.961A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.025213819026877384"/>
+                                        <path d="M119.973,5.962A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.025220865169038865"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M182.264,69.521A75,75,0,0,0,119.711,5.92L108,80Z" class="ct-slice-pie" ct:value="0.19983745309315334"/>
+                                        <path d="M182.268,69.545A75,75,0,0,0,119.714,5.921L108,80Z" class="ct-slice-pie" ct:value="0.19988059625656562"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M155.764,137.824A75,75,0,0,0,182.227,69.262L108,80Z" class="ct-slice-pie" ct:value="0.16054681795381381"/>
+                                        <path d="M155.826,137.772A75,75,0,0,0,182.231,69.286L108,80Z" class="ct-slice-pie" ct:value="0.1603249306124523"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M135.358,149.832A75,75,0,0,0,155.965,137.657L108,80Z" class="ct-slice-pie" ct:value="0.0498688830614694"/>
+                                        <path d="M135.428,149.805A75,75,0,0,0,156.028,137.605L108,80Z" class="ct-slice-pie" ct:value="0.04988281919859764"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,1,0,135.602,149.736L108,80Z" class="ct-slice-pie" ct:value="0.5529452102633133"/>
+                                        <path d="M108,5A75,75,0,1,0,135.671,149.709L108,80Z" class="ct-slice-pie" ct:value="0.5530997338820824"/>
                                     </g>
                                     <g>
-                                        <text dx="111.0020416250302" dy="42.62035652816381" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="134.78165995868517" dy="53.7513297506834" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="142.96083724417718" dy="93.5642861657425" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="127.01894245091547" dy="112.31918668606568" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="71.15165515945401" dy="86.9605662493943" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="111.0028885818636" dy="42.62042455879263" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="134.7865030435328" dy="53.75627208838637" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="142.96598709693387" dy="93.55100536259407" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="127.05249943242339" dy="112.29941586743492" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="71.15511842168425" dy="86.97887537357478" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1496,28 +1496,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 73.424%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
+                                <div class="bar" style="width: 71.56%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">89%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 2.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">portfolio</span>
-                                <div class="bar" style="width: 1.1119999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.8960000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">admin</span>
-                                <div class="bar" style="width: 0.952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.5759999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">nextjs-lighthouse</span>
-                                <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">nextjs-course-code</span>
+                                <div class="bar" style="width: 1.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
