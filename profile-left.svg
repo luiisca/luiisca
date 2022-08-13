@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1404" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1424" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -73,6 +73,12 @@
                             </svg>
                             Commits streaks
                         </h3>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 34 days
+                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1066,10 +1072,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0952380952380953 0,1.0952380952380953 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0952380952380953 1.7,2.0952380952380953 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.904761904761905)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0952380952380953 0,1.0952380952380953 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0952380952380953 1.7,2.0952380952380953 z"/>
                             </g>
                         </g>
                     </g>
@@ -1182,11 +1188,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="66.86274509803921" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="66.86274509803921" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="66.86274509803921" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="66.86274509803921" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="66.86274509803921" y="0" width="153.13725490196077" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="68.3495145631068" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="68.3495145631068" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="68.3495145631068" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="68.3495145631068" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="68.3495145631068" y="0" width="151.6504854368932" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -1197,7 +1203,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">31 <small>open</small></span>
+                                <span class="no-wrap">32 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1406,30 +1412,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M109.677,5.019A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.003523813561118294"/>
+                                        <path d="M109.676,5.019A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.003523066816419081"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M134.998,10.028A75,75,0,0,0,109.415,5.013L108,80Z" class="ct-slice-pie" ct:value="0.0545157803259925"/>
+                                        <path d="M134.992,10.026A75,75,0,0,0,109.415,5.013L108,80Z" class="ct-slice-pie" ct:value="0.0545042276801797"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M116.546,154.512A75,75,0,0,0,134.753,9.934L108,80Z" class="ct-slice-pie" ct:value="0.41912715403039486"/>
+                                        <path d="M116.494,154.518A75,75,0,0,0,134.748,9.932L108,80Z" class="ct-slice-pie" ct:value="0.41925024899870733"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M111.764,154.905A75,75,0,0,0,116.806,154.481L108,80Z" class="ct-slice-pie" ct:value="0.01008393564933551"/>
+                                        <path d="M111.713,154.908A75,75,0,0,0,116.754,154.487L108,80Z" class="ct-slice-pie" ct:value="0.010081798724278963"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M92.084,153.292A75,75,0,0,0,112.026,154.892L108,80Z" class="ct-slice-pie" ct:value="0.041618092795523434"/>
+                                        <path d="M92.038,153.282A75,75,0,0,0,111.975,154.895L108,80Z" class="ct-slice-pie" ct:value="0.04160927334760219"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,92.34,153.347L108,80Z" class="ct-slice-pie" ct:value="0.46146060747366413"/>
+                                        <path d="M108,5A75,75,0,0,0,92.294,153.337L108,80Z" class="ct-slice-pie" ct:value="0.46136281760579795"/>
                                     </g>
                                     <g>
-                                        <text dx="108.41918463272009" dy="42.50234294994297" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="115.27712624499893" dy="43.212863204452184" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="145.19787852400484" dy="84.75056136823635" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="111.07901942257611" dy="117.37338142843646" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="104.93543027041642" dy="117.37456905935531" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.7141376312921" dy="75.99819198089509" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="108.41909493819581" dy="42.502341947359184" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="115.2755889072145" dy="43.21255912606563" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="145.19640909841405" dy="84.7620531478996" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="111.05323719572112" dy="117.37549655357992" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="104.91096030781642" dy="117.37255455250704" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.71539300504875" dy="75.98651258479205" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
