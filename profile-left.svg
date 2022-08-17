@@ -1434,30 +1434,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M109.832,5.022A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.003847333190625235"/>
+                                        <path d="M109.807,5.022A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.00379540214140584"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M141.235,147.234A75,75,0,0,0,109.57,5.016L108,80Z" class="ct-slice-pie" ct:value="0.418584065676581"/>
+                                        <path d="M136.638,149.317A75,75,0,0,0,109.545,5.016L108,80Z" class="ct-slice-pie" ct:value="0.42929708010866835"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M137.818,148.818A75,75,0,0,0,141.469,147.118L108,80Z" class="ct-slice-pie" ct:value="0.007908728528698792"/>
+                                        <path d="M134.451,150.181A75,75,0,0,0,136.879,149.217L108,80Z" class="ct-slice-pie" ct:value="0.004936876469648198"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M133.459,150.547A75,75,0,0,0,138.058,148.713L108,80Z" class="ct-slice-pie" ct:value="0.009846858782622783"/>
+                                        <path d="M130.075,151.678A75,75,0,0,0,134.696,150.088L108,80Z" class="ct-slice-pie" ct:value="0.009713946533342465"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M112.332,154.875A75,75,0,0,0,133.705,150.457L108,80Z" class="ct-slice-pie" ct:value="0.04543902989348962"/>
+                                        <path d="M109.061,154.992A75,75,0,0,0,130.325,151.6L108,80Z" class="ct-slice-pie" ct:value="0.04482569687007739"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,1,0,112.593,154.859L108,80Z" class="ct-slice-pie" ct:value="0.5038270840685694"/>
+                                        <path d="M108,5A75,75,0,1,0,109.323,154.988L108,80Z" class="ct-slice-pie" ct:value="0.4970264593749287"/>
                                     </g>
                                     <g>
-                                        <text dx="108.45807324353878" dy="42.50279785232565" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="144.61789602110508" dy="71.91422910369474" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="123.76802116163157" dy="114.02380796804407" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="121.82588072385546" dy="114.85821312416519" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="115.52588220363224" dy="116.73705346182587" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="70.51565359619369" dy="81.08340882378397" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="108.45182549753306" dy="42.50272204919697" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="144.86807298322125" dy="73.144695885384" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="121.77391227221412" dy="114.87878066557587" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="120.13736006839474" dy="115.48146686046303" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="113.84317231331717" dy="117.04196724415273" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="70.50093863814283" dy="80.26532429152059" text-anchor="middle" class="ct-label">CSS</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1480,13 +1480,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~18 coding hours recorded
+                            ~20 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on blog-tut
+                            Working on blog-app
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1521,29 +1521,29 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">blog-app</span>
+                                <div class="bar" style="width: 28.895999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">blog-tut</span>
-                                <div class="bar" style="width: 20.112000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 17.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">t3-todo-app</span>
-                                <div class="bar" style="width: 11.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">blog-app</span>
-                                <div class="bar" style="width: 11.536%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">my-t3-app</span>
-                                <div class="bar" style="width: 11.240000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 10.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">trpc-todo</span>
-                                <div class="bar" style="width: 7.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 6.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">c0d3</span>
+                                <div class="bar" style="width: 6.071999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                         </div>
                     </section>
