@@ -1418,30 +1418,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M110.342,5.037A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.003105511009291078"/>
+                                        <path d="M110.294,5.035A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.003065557705354675"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M35.615,60.367A75,75,0,1,0,110.08,5.029L108,80Z" class="ct-slice-pie" ct:value="0.49186712485681555"/>
+                                        <path d="M36.165,58.443A75,75,0,1,0,110.032,5.028L108,80Z" class="ct-slice-pie" ct:value="0.49840440234188504"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M63.849,19.372A75,75,0,0,0,35.547,60.62L108,80Z" class="ct-slice-pie" ct:value="0.06727758686521573"/>
+                                        <path d="M64.633,18.81A75,75,0,0,0,36.09,58.694L108,80Z" class="ct-slice-pie" ct:value="0.06641204110862628"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M64.723,18.746A75,75,0,0,0,63.638,19.527L108,80Z" class="ct-slice-pie" ct:value="0.0014254804632811507"/>
+                                        <path d="M65.496,18.207A75,75,0,0,0,64.419,18.961L108,80Z" class="ct-slice-pie" ct:value="0.0014071412418021458"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M75.586,12.366A75,75,0,0,0,64.509,18.897L108,80Z" class="ct-slice-pie" ct:value="0.01672394043528064"/>
+                                        <path d="M76.205,12.073A75,75,0,0,0,65.281,18.355L108,80Z" class="ct-slice-pie" ct:value="0.016508782069000177"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,75.35,12.48L108,80Z" class="ct-slice-pie" ct:value="0.044444444444444446"/>
+                                        <path d="M108,5A75,75,0,0,0,75.968,12.184L108,80Z" class="ct-slice-pie" ct:value="0.04387265371761691"/>
                                     </g>
                                     <g>
-                                        <text dx="108.58549730712721" dy="42.50457103988078" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="130.3151662051212" dy="110.13773974998486" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="77.11610105576258" dy="58.72948552568295" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="86.14250023759138" dy="49.528706884408294" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="89.01013953900383" dy="47.6637169781081" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="99.68989291461936" dy="43.432362392006965" text-anchor="middle" class="ct-label">PLpgSQL</text>
+                                        <text dx="108.57353549694649" dy="42.504386162729084" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="129.92082314844038" dy="110.42577053247462" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="77.54265718838306" dy="58.1230653688492" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="86.53165976290617" dy="49.25328688356465" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="89.36207580904117" dy="47.45959769990433" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="99.8569337119335" dy="43.394802671913446" text-anchor="middle" class="ct-label">PLpgSQL</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1464,7 +1464,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~27 coding hours recorded
+                            ~24 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1506,27 +1506,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">osteocenter-platform</span>
-                                <div class="bar" style="width: 63.367999999999995%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">79%</span>
+                                <div class="bar" style="width: 60.672000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">76%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">portfolio</span>
-                                <div class="bar" style="width: 7.4239999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 8.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 4.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">blog-app</span>
-                                <div class="bar" style="width: 2.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 2.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 1.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6239999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
