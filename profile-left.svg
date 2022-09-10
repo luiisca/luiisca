@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1413" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{display:inline-block}.ct-chart{display:flex;margin-left:-12px}.ct-chart-pie .ct-label{fill:rgba(255,255,255,.8)!important;color:rgba(255,255,255,.8)!important}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-chart-pie .ct-label{dominant-baseline:central}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area,.ct-series-a .ct-slice-pie{fill:#87ceeb}.ct-series-b .ct-line,.ct-series-b .ct-point{background-color:#32cd32;stroke:#32cd32}.ct-series-b .ct-area,.ct-series-b .ct-slice-pie{fill:#32cd32}.ct-series-c .ct-line,.ct-series-c .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-c .ct-area,.ct-series-c .ct-slice-pie{fill:#cd5c5c}.ct-series-d .ct-line,.ct-series-d .ct-point{background-color:gold;stroke:gold}.ct-series-d .ct-area,.ct-series-d .ct-slice-pie{fill:gold}.ct-series-e .ct-line,.ct-series-e .ct-point{background-color:orange;stroke:orange}.ct-series-e .ct-area,.ct-series-e .ct-slice-pie{fill:orange}.ct-series-f .ct-line,.ct-series-f .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-f .ct-area,.ct-series-f .ct-slice-pie{fill:#cd5c5c}.ct-series-g .ct-line,.ct-series-g .ct-point{background-color:#cd5c5c;stroke:#cd5c5c}.ct-series-g .ct-area,.ct-series-g .ct-slice-pie{fill:#cd5c5c}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -73,6 +73,12 @@
                             </svg>
                             Commits streaks
                         </h3>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 14 days
+                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1066,10 +1072,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0952380952380953 0,1.0952380952380953 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0952380952380953 1.7,2.0952380952380953 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.904761904761905)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0952380952380953 0,1.0952380952380953 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0952380952380953 1.7,2.0952380952380953 z"/>
                             </g>
                         </g>
                     </g>
@@ -1191,14 +1197,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="63.35999999999999" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="63.35999999999999" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="63.35999999999999" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="63.35999999999999" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="63.35999999999999" y="0" width="156.64" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="62.857142857142854" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="62.857142857142854" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="62.857142857142854" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="62.857142857142854" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="62.857142857142854" y="0" width="157.14285714285714" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -1213,7 +1219,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">89 <small>closed</small></span>
+                                <span class="no-wrap">90 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1281,12 +1287,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 11 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.9 characters per line of code written</li>
+                        <li>Has approximately 33.3 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1309,9 +1315,9 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,37,256.957,37C263.261,37,269.565,103,275.87,103C282.174,103,288.478,103,294.783,103C301.087,103,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,51.667,465,15L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,37,256.957,37C263.261,37,269.565,103,275.87,103C282.174,103,288.478,103,294.783,103C301.087,103,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,51.667,465,15" class="ct-line"/>
-                                        <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
+                                        <path d="M30,125L30,103C36.304,110.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,37,256.957,37C263.261,37,269.565,103,275.87,103C282.174,103,288.478,103,294.783,103C301.087,103,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,51.667,465,15L465,125Z" class="ct-area"/>
+                                        <path d="M30,103C36.304,110.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,37,256.957,37C263.261,37,269.565,103,275.87,103C282.174,103,288.478,103,294.783,103C301.087,103,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,125,408.261,125C414.565,125,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,51.667,465,15" class="ct-line"/>
+                                        <line x1="30" y1="103" x2="30.01" y2="103" class="ct-point" ct:value="1"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="86.73913043478261" y1="125" x2="86.74913043478261" y2="125" class="ct-point" ct:value="0"/>
@@ -1335,7 +1341,7 @@
                                         <line x1="427.1739130434783" y1="125" x2="427.1839130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="446.0869565217392" y1="125" x2="446.0969565217392" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="465.00000000000006" y1="15" x2="465.01000000000005" y2="15" class="ct-point" ct:value="5"/>
-                                    <text x="256.95652173913044" y="32" class="ct-post">4</text><text x="275.8695652173913" y="98" class="ct-post">1</text><text x="294.7826086956522" y="98" class="ct-post">1</text><text x="465.00000000000006" y="10" class="ct-post">5</text></g>
+                                    <text x="30" y="98" class="ct-post">1</text><text x="256.95652173913044" y="32" class="ct-post">4</text><text x="275.8695652173913" y="98" class="ct-post">1</text><text x="294.7826086956522" y="98" class="ct-post">1</text><text x="465.00000000000006" y="10" class="ct-post">5</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -1385,16 +1391,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,115.833,49,111.25,58.5,97.5C68,83.75,77.5,15,87,15C96.5,15,106,103.229,115.5,111.25C125,119.271,134.5,125,144,125C153.5,125,163,125,172.5,125C182,125,191.5,125,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,115.833,49,111.25,58.5,97.5C68,83.75,77.5,15,87,15C96.5,15,106,103.229,115.5,111.25C125,119.271,134.5,125,144,125C153.5,125,163,125,172.5,125C182,125,191.5,125,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,115.833,49,111.25,58.5,97.5C68,83.75,77.5,15,87,15C96.5,15,106,103.229,115.5,111.25C125,119.271,134.5,125,144,125C153.5,125,163,125,172.5,125C182,125,191.5,115.833,201,111.25L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,115.833,49,111.25,58.5,97.5C68,83.75,77.5,15,87,15C96.5,15,106,103.229,115.5,111.25C125,119.271,134.5,125,144,125C153.5,125,163,125,172.5,125C182,125,191.5,115.833,201,111.25" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="58.5" y1="97.5" x2="58.51" y2="97.5" class="ct-point" ct:value="2"/>
                                             <line x1="87" y1="15" x2="87.01" y2="15" class="ct-point" ct:value="8"/>
                                             <line x1="115.5" y1="111.25" x2="115.51" y2="111.25" class="ct-point" ct:value="1"/>
                                             <line x1="144" y1="125" x2="144.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="172.5" y1="125" x2="172.51" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="58.5" y="92.5" class="ct-post">2</text><text x="87" y="10" class="ct-post">8</text><text x="115.5" y="106.25" class="ct-post">1</text></g>
+                                            <line x1="201" y1="111.25" x2="201.01" y2="111.25" class="ct-point" ct:value="1"/>
+                                        <text x="58.5" y="92.5" class="ct-post">2</text><text x="87" y="10" class="ct-post">8</text><text x="115.5" y="106.25" class="ct-post">1</text><text x="201" y="106.25" class="ct-post">1</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1417,30 +1423,34 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M109.278,5.011A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.0021826699554593366"/>
+                                        <path d="M108.321,5.001A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.0005586225026288118"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M59.444,22.839A75,75,0,1,0,109.016,5.007L108,80Z" class="ct-slice-pie" ct:value="0.7122957074157542"/>
+                                        <path d="M43.091,42.425A75,75,0,1,0,108.059,5L108,80Z" class="ct-slice-pie" ct:value="0.6839182439537329"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M82.937,9.312A75,75,0,0,0,59.245,23.009L108,80Z" class="ct-slice-pie" ct:value="0.04654588043227512"/>
+                                        <path d="M58.755,23.432A75,75,0,0,0,42.961,42.652L108,80Z" class="ct-slice-pie" ct:value="0.04309608307045216"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M83.486,9.119A75,75,0,0,0,82.69,9.4L108,80Z" class="ct-slice-pie" ct:value="0.0009937359146806736"/>
+                                        <path d="M59.154,23.087A75,75,0,0,0,58.558,23.604L108,80Z" class="ct-slice-pie" ct:value="0.0009200841219768665"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M90.032,7.184A75,75,0,0,0,83.239,9.205L108,80Z" class="ct-slice-pie" ct:value="0.011658651713307188"/>
+                                        <path d="M85.687,8.396A75,75,0,0,0,58.956,23.258L108,80Z" class="ct-slice-pie" ct:value="0.05321700841219769"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,89.777,7.247L108,80Z" class="ct-slice-pie" ct:value="0.030983266197008145"/>
+                                        <path d="M91.67,6.799A75,75,0,0,0,85.437,8.474L108,80Z" class="ct-slice-pie" ct:value="0.010794558359621452"/>
+                                    </g>
+                                    <g class="ct-series ct-series-g">
+                                        <path d="M108,5A75,75,0,0,0,91.415,6.857L108,80Z" class="ct-slice-pie" ct:value="0.028686908517350156"/>
                                     </g>
                                     <g>
-                                        <text dx="108.3195593942631" dy="42.50136160080558" text-anchor="middle" class="ct-label">Shell</text>
-                                        <text dx="120.63187883637423" dy="115.30843577763196" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="89.28713723014133" dy="47.50263446129153" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="95.60568983937335" dy="44.607471471478796" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="97.36842058863917" dy="44.038638523827714" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="103.47481546476831" dy="42.77403184708153" text-anchor="middle" class="ct-label">PLpgSQL</text>
+                                        <text dx="108.0801410052687" dy="42.50008563450745" text-anchor="middle" class="ct-label">Shell</text>
+                                        <text dx="126.66181497507688" dy="112.52670690119115" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="79.06924720084183" dy="56.140797530638174" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="83.47715340019514" dy="51.62959297714538" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="89.835091485709" dy="47.193200420226326" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="98.33090888167149" dy="43.76798822939222" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="103.89277684790592" dy="42.72560237939582" text-anchor="middle" class="ct-label">PLpgSQL</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
