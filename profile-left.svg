@@ -1421,14 +1421,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M84.359,151.177A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5499203014055933"/>
+                                        <path d="M108.726,154.996A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.4973296649943357"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,84.608,151.259L108,80Z" class="ct-slice-pie" ct:value="0.44805100710042023"/>
+                                        <path d="M108,5A75,75,0,1,0,108.988,154.993L108,80Z" class="ct-slice-pie" ct:value="0.5004045962129794"/>
                                     </g>
                                     <g>
-                                        <text dx="145.01898251840464" dy="85.98706382979596" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="70.98101748159536" dy="74.01293617020406" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="145.49956057858526" dy="79.81846098762236" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="70.50043942141475" dy="80.18153901237764" text-anchor="middle" class="ct-label">TSX</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
