@@ -1420,14 +1420,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M166.937,33.617A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.14378778647419974"/>
+                                        <path d="M168.179,35.24A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.14811953845411094"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,1,0,166.775,33.411L108,80Z" class="ct-slice-pie" ct:value="0.855556076299386"/>
+                                        <path d="M108,5A75,75,0,1,0,168.023,35.03L108,80Z" class="ct-slice-pie" ct:value="0.8512045575242602"/>
                                     </g>
                                     <g>
-                                        <text dx="124.37935744560899" dy="46.26623872632977" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="91.62064255439101" dy="113.73376127367024" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="124.83750389740818" dy="46.492561087054646" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="91.16249610259183" dy="113.50743891294536" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1450,7 +1450,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~23 coding hours recorded
+                            ~25 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1492,18 +1492,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 67.72800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">85%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 6.303999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 57.272%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">72%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">osteocenter-platform</span>
-                                <div class="bar" style="width: 5.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 16.688000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 6.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                         </div>
                     </section>
