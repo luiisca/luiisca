@@ -1487,13 +1487,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">osteocenter-platform</span>
-                                <div class="bar" style="width: 64.20800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Osteocenter</span>
-                                <div class="bar" style="width: 9.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 73.864%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
